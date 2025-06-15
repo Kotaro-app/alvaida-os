@@ -1,0 +1,9 @@
+License Information
+This project, encompassing all its components including the kernel and operating system code, is licensed under the MIT License.
+We encourage modification, distribution, and use in accordance with the terms specified therein.
+For the complete and detailed license text, please refer to the LICENSE file located in the root directory of this repository.
+
+Third-Party Component Licensing
+The Limine Bootloader is utilized within this project to facilitate the boot process. 
+Limine is a distinct third-party component and is provided under its own 2-Clause BSD License. 
+You can find the full text of the Limine Bootloader's license file at the following path within this repository: /bootloader/limine/LICENSE.
